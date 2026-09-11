@@ -14,3 +14,4 @@
 
 ### 8日目
 - 8日目：Codexを使った安全な開発を学習
+- Codexで変更を行い、Pull Requestで確認してからMergeする。
