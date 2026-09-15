@@ -48,6 +48,7 @@ a { color: inherit; text-decoration: none; }
 .hero h1 { max-width: 690px; margin: 36px 0 26px; font-size: clamp(4.4rem, 10vw, 8.8rem); font-weight: 500; letter-spacing: -0.06em; line-height: 0.91; }
 em { font-family: var(--serif); font-weight: 400; }
 .hero-lead { margin: 0 0 35px; font-size: 1.05rem; line-height: 2; }
+.hero-links { display: flex; flex-wrap: wrap; gap: 14px 28px; }
 .text-link, .contact-link { display: inline-flex; align-items: center; gap: 24px; border-bottom: 1px solid var(--ink); padding-bottom: 5px; font-size: 0.77rem; font-weight: 700; letter-spacing: 0.08em; }
 .text-link span, .contact-link span { font-size: 1.2rem; font-weight: 400; }
 .hero-shape { position: absolute; border: 1px solid rgba(32, 37, 31, 0.32); border-radius: 50%; }
